@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -46,6 +47,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
