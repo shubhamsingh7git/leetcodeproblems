@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
