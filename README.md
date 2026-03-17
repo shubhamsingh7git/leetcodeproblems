@@ -8,6 +8,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -17,4 +18,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
