@@ -15,6 +15,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Dynamic Programming
@@ -99,6 +101,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
