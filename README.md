@@ -19,6 +19,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +86,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +112,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Union-Find
