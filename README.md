@@ -16,6 +16,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -30,6 +31,7 @@
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +112,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
