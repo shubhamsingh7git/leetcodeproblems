@@ -15,6 +15,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -96,6 +97,7 @@
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,12 +107,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -123,4 +127,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 <!---LeetCode Topics End-->
