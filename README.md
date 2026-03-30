@@ -65,6 +65,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -133,4 +135,5 @@
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
