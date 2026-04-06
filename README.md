@@ -38,6 +38,7 @@
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +118,7 @@
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -178,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 <!---LeetCode Topics End-->
