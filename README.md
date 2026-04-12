@@ -127,6 +127,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -173,6 +174,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
