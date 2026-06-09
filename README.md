@@ -54,6 +54,7 @@
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Hash Table
