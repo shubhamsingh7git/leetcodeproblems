@@ -40,6 +40,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Math
@@ -170,6 +171,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
