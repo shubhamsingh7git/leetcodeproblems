@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
@@ -82,6 +83,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -200,6 +202,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
