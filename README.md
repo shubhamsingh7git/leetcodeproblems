@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -47,6 +48,7 @@
 | [0007-reverse-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
