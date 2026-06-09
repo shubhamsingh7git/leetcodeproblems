@@ -44,6 +44,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
