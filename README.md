@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0075-sort-colors/) | Medium |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -189,6 +191,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
