@@ -52,6 +52,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
