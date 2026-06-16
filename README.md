@@ -23,6 +23,7 @@
 | [0874-walking-robot-simulation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0896-monotonic-array/) | Easy |
+| [1051-height-checker](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1051-height-checker/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -155,6 +156,7 @@
 | [0075-sort-colors](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
+| [1051-height-checker](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1051-height-checker/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
@@ -325,4 +327,8 @@
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
