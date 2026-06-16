@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0896-monotonic-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0896-monotonic-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
