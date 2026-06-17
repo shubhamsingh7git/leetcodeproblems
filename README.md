@@ -75,6 +75,7 @@
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -264,6 +265,7 @@
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
