@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0228-summary-ranges/) | Easy |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [0525-contiguous-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -290,6 +292,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -329,6 +332,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -348,4 +352,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1051-height-checker/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
