@@ -81,6 +81,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
