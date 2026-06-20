@@ -33,6 +33,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -86,6 +87,7 @@
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1840-maximum-building-height](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1840-maximum-building-height/) | Hard |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -177,6 +179,7 @@
 | [0217-contains-duplicate](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [1051-height-checker](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1051-height-checker/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1840-maximum-building-height/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
