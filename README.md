@@ -162,6 +162,7 @@
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0525-contiguous-array/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
@@ -295,6 +296,7 @@
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0520-detect-capital/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -340,6 +342,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
@@ -412,6 +415,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
