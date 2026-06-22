@@ -39,6 +39,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -294,6 +295,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
