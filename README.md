@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0228-summary-ranges/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0414-third-maximum-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [0525-contiguous-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0525-contiguous-array/) | Medium |
@@ -84,6 +85,7 @@
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -159,6 +161,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0525-contiguous-array/) | Medium |
@@ -342,6 +345,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
@@ -418,4 +422,8 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
