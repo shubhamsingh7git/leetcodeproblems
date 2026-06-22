@@ -158,6 +158,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -286,6 +287,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
