@@ -57,6 +57,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -141,6 +142,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -181,6 +183,7 @@
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -282,6 +285,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -363,6 +367,7 @@
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
