@@ -32,6 +32,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -330,6 +331,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
@@ -355,6 +357,7 @@
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
 | [1396-design-underground-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1396-design-underground-system/) | Medium |
+| [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Trie
@@ -399,6 +402,7 @@
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
+| [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
@@ -432,4 +436,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
