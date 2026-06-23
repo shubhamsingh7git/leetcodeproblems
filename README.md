@@ -36,6 +36,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -175,6 +176,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1396-design-underground-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1396-design-underground-system/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -359,6 +361,7 @@
 | [1396-design-underground-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -444,4 +447,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 <!---LeetCode Topics End-->
