@@ -44,6 +44,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -182,6 +183,7 @@
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -372,6 +374,7 @@
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
+| [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
@@ -406,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -438,6 +442,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
+| [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
