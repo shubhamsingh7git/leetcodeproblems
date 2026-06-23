@@ -180,6 +180,7 @@
 | [1396-design-underground-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1396-design-underground-system/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -370,6 +371,7 @@
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
@@ -416,6 +418,7 @@
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
+| [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
@@ -453,6 +456,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
+| [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
