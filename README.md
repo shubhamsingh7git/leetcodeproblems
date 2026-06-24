@@ -47,6 +47,7 @@
 | [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2293-min-max-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2293-min-max-game/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -142,6 +143,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2293-min-max-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2293-min-max-game/) | Easy |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
