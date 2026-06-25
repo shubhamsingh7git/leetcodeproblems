@@ -171,6 +171,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
@@ -322,6 +323,7 @@
 | [0043-multiply-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0205-isomorphic-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
