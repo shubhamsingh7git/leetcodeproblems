@@ -278,6 +278,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1529-minimum-suffix-flips](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -333,6 +334,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1396-design-underground-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1396-design-underground-system/) | Medium |
+| [1529-minimum-suffix-flips](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
