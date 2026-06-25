@@ -358,6 +358,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
@@ -379,6 +380,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
@@ -428,6 +430,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Linked List
@@ -489,4 +492,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
