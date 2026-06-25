@@ -36,6 +36,7 @@
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -310,6 +311,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -475,4 +477,12 @@
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
