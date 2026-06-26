@@ -77,6 +77,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -199,6 +200,7 @@
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Divide and Conquer
@@ -209,6 +211,7 @@
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +254,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +439,7 @@
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +476,7 @@
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
