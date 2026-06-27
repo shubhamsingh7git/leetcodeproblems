@@ -58,6 +58,7 @@
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3193-count-the-number-of-inversions/) | Hard |
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Number Theory
@@ -195,6 +197,7 @@
 | [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
