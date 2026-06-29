@@ -96,6 +96,7 @@
 | [0066-plus-one](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
@@ -426,6 +427,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0223-rectangle-area/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
