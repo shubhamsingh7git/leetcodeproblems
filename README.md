@@ -98,6 +98,7 @@
 | [0168-excel-sheet-column-title](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0223-rectangle-area/) | Medium |
+| [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
@@ -139,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0050-powx-n/) | Medium |
+| [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
@@ -352,6 +354,7 @@
 | [0125-valid-palindrome](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -388,6 +391,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
