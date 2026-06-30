@@ -99,6 +99,7 @@
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
@@ -355,6 +356,7 @@
 | [0168-excel-sheet-column-title](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -392,6 +394,7 @@
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
