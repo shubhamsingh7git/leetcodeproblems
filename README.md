@@ -60,6 +60,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -330,6 +331,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -349,6 +351,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +415,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Memoization
@@ -458,6 +462,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +480,7 @@
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
